@@ -374,9 +374,9 @@
             // 
             // btnTimKiem
             // 
-            btnTimKiem.Location = new Point(405, 19);
+            btnTimKiem.Location = new Point(405, 27);
             btnTimKiem.Name = "btnTimKiem";
-            btnTimKiem.Size = new Size(94, 36);
+            btnTimKiem.Size = new Size(94, 31);
             btnTimKiem.TabIndex = 1;
             btnTimKiem.Text = "Tìm kiếm";
             btnTimKiem.UseVisualStyleBackColor = true;

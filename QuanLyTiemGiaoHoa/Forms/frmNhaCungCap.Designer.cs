@@ -60,7 +60,7 @@
             groupBox2.Size = new Size(1081, 397);
             groupBox2.TabIndex = 4;
             groupBox2.TabStop = false;
-            groupBox2.Text = "Danh sách hãng sản xuất";
+            groupBox2.Text = "Danh sách nhà cung cấp";
             // 
             // dataGridView
             // 
@@ -110,7 +110,7 @@
             groupBox1.Size = new Size(1082, 123);
             groupBox1.TabIndex = 3;
             groupBox1.TabStop = false;
-            groupBox1.Text = "Thông tin hãng sản xuất";
+            groupBox1.Text = "Thông tin nhà cung cấp";
             // 
             // btnXuat
             // 
@@ -204,9 +204,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(18, 30);
             label1.Name = "label1";
-            label1.Size = new Size(166, 20);
+            label1.Size = new Size(163, 20);
             label1.TabIndex = 0;
-            label1.Text = "Tên hãng sản xuất(*):";
+            label1.Text = "Tên nhà cung cấp(*):";
             // 
             // groupBox3
             // 

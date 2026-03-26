@@ -70,7 +70,7 @@
             groupBox1.Size = new Size(1052, 106);
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
-            groupBox1.Text = "Thông tin loại sản phẩm";
+            groupBox1.Text = "Thông tin loại hoa";
             // 
             // btnXuat
             // 
@@ -162,11 +162,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(16, 27);
+            label1.Location = new Point(48, 32);
             label1.Name = "label1";
-            label1.Size = new Size(167, 20);
+            label1.Size = new Size(124, 20);
             label1.TabIndex = 0;
-            label1.Text = "Tên loại sản phẩm(*):";
+            label1.Text = "Tên loại hoa(*):";
             // 
             // groupBox2
             // 
@@ -204,7 +204,7 @@
             groupBox3.Size = new Size(1052, 401);
             groupBox3.TabIndex = 3;
             groupBox3.TabStop = false;
-            groupBox3.Text = "Danh sách loại sản phẩm";
+            groupBox3.Text = "Danh sách loại hoa";
             // 
             // dataGridView
             // 
